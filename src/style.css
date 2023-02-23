@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  background: #0d0d0d;
+  background: #ffffff;
   color: white;
   font-family: Helvetica;
 }
@@ -45,7 +45,7 @@ nav {
 
 .search-input {
   background: none;
-  color: #cc0000;
+  color: #ffffff;
   border: 1px solid #cc0000;
   outline: none;
   border-radius: 8px;
