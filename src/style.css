@@ -43,7 +43,7 @@ nav {
   float: right;
 }
 
-.search-input {
+.search-input 
   background: none;
   color: #cc0000;
   border: 1px solid #cc0000;
