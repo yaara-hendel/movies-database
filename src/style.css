@@ -46,7 +46,7 @@ nav {
 .search-input {
   background: none;
   color: #cc0000;
-  border: 1px solid #cc0000;
+  border: 10px solid #cc0000;
   outline: none;
   border-radius: 8px;
   padding: 5px;
